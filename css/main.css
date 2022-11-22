@@ -465,7 +465,7 @@ background: black;
 .wrapper_burger{
   margin: 0 0;
   width: 100px;
-
+  position: relative;
   color: white;
   text-align: center;
   height: 45px;
@@ -483,7 +483,7 @@ background: black;
 
 label{
   display: block;
-  position: absolute;
+  position: relative;
   top: 0;
   left: 20px;
   width: 45px;
@@ -513,7 +513,7 @@ top: 16px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  position: absolute;
+  position: relative;
   width: 100%;
   bottom: 0;
   left: 0;
